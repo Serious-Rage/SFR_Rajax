@@ -1,7 +1,7 @@
 # **__SERIOUS F. RAGE__**
 <iframe scrolling="yes" seamless="seamless" class="inner" width="100%" height="400px" src="https://serious-rage.github.io/" frameborder="0" allowfullscreen></iframe>
 
-#HSLIDE?assets/SRF-img - 111.jpg
+#HSLIDE?"assets/SRF-img - 111.jpg"
 
 
 
