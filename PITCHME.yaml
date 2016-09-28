@@ -2,3 +2,7 @@ theme-override : assets/css/PITCHME.css
 
 autoslide : 6000
 
+loop : true
+
+transition : fade
+
