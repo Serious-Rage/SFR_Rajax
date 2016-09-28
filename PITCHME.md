@@ -12,16 +12,16 @@
 # **_THE WORLD WILL SEE YOUR VISION_**
 - - - - - - - - - - - - -
 
-#HSLIDE?image=http://seriousrageweb.com/pictures/00000000000/FLY_roughProto1.png
+#HSLIDE?image=assets/html5.png
 
-#HSLIDE?image=https://github.com/Serious-Rage/SFR_Rajax/blob/master/assets/badeye-szed.gif
+#HSLIDE?image=assets/badeye-szed.gif
 
 
 
 #HSLIDE?image=assets/02_wet_red_logo_large.gif
 
 
-#SLIDE?image=https://github.com/Serious-Rage/SFR_Rajax/blob/master/assets/Untitled%20copy.jpg
+#HSLIDE?image=assets/Untitled%20copy.jpg
 
 
 
