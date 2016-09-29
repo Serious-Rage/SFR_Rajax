@@ -14,13 +14,17 @@
 # **_THE WORLD WILL SEE YOUR VISION_**
 - - - - - - - - - - - - -
 #HSLIDE?image=assets/badeye-szed.gif
-#### *__It is your Vision __*	
-#HSLIDE
-
-![Explore SFR service](assets/02_wet_red_logo_large.gif)
-
+## *__your Vision__*	
+#### *__is ALIVE__*
 #HSLIDE?image=assets/02_wet_red_logo_large.gif
-
+# *__SFR-web__*	
+#### *__That's Our Business__*
+	
+#HSLIDE?image=assets/badeye-szed.gif
+# *__No Limits__*
+#### *__to What we CREATE__*
+#HSLIDE?image=assets/02_wet_red_logo_large.gif
+# *__Create LIFE__*
 
 
 
