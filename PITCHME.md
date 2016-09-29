@@ -13,8 +13,8 @@
 #### *__PROFESSIONAL BUSINESS__*	
 # **_THE WORLD WILL SEE YOUR VISION_**
 - - - - - - - - - - - - -
-#HSLIDE?image=http://seriousrageweb.com/pictures/00000000000/FLY_roughProto1.png
-
+#HSLIDE?image=assets/badeye-szed.gif
+#### *__It is your Vision __*	
 #HSLIDE
 
 ![Explore SFR service](assets/02_wet_red_logo_large.gif)
