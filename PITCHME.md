@@ -1,10 +1,10 @@
 
-![Explore SFR service](assets/html5.png) **__SFR-web__** 
+![Explore SFR service](assets/html5.png)# **__SFR-web__** 
 ###### Professional Development
 ## Professional Business
 
 #HSLIDE
-<iframe scrolling="yes" seamless="seamless" class="inner" width="100%" height="700px" src="https://serious-rage.github.io/" frameborder="0" allowfullscreen></iframe>
+<iframe scrolling="yes" seamless="seamless" class="inner" width="100%" height="400px" src="https://serious-rage.github.io/" frameborder="0" allowfullscreen></iframe>
 
 #HSLIDE?image=assets/02_wet_red_logo_large.gif
 
